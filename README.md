@@ -1,6 +1,7 @@
 # Opa, seja bem-vindo!
 ## Tudo bem? Aqui vão algumas informações sobre mim:
 - Meu nome é Henrique Ramos Do Nascimento.
+- Tenho 18 anos de idade.
 - Sou estudante de ciências da computação no Centro Universitário Filadélfia - UniFil.
 - Faço também um curso por fora, o FullStack Pro, que aborda HTML, CSS, JavaScript e TypeScript.
 
